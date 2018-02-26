@@ -1,0 +1,16 @@
+@import 'normalize.css';
+
+h1{
+	font-size: 18px;
+	color: #f00;
+	text-align: center;
+	text-shadow: 5px 10px 10px #ccc;
+}
+
+.smile{
+	display: inline-block;
+	width: 48px;
+	height: 48px;
+	background: url(../images/smile.svg);
+	vertical-align: middle;
+}
